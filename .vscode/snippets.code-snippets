@@ -1,0 +1,12 @@
+{
+    "Print to reactotron": {
+        "prefix": "clt",
+        "body": ["console.tron.log($1)"],
+        "description": "Log output to console"
+      },
+      "Print to reactotron with value name": {
+        "prefix": "cltt",
+        "body": ["console.tron.log('$1', $1)"],
+        "description": "Log output to console"
+      },
+}
