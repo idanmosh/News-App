@@ -1,6 +1,6 @@
 # News-App-Isracard
 
-# init project repo
+# Init project repo
 
 yarn
 
